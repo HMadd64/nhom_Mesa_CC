@@ -6,5 +6,10 @@ namespace nhom_Mesa_CC
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
